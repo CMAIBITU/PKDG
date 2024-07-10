@@ -36,6 +36,6 @@ python test.py
 ```
 
 ## Acknowledgement
-Some of the code is adapted from [ELCFS[(https://github.com/liuquande/FedDG-ELCFS?tab=readme-ov-file)
+Some of the code is adapted from [ELCFS](https://github.com/liuquande/FedDG-ELCFS?tab=readme-ov-file)
 
 
